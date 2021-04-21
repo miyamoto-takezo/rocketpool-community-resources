@@ -21,7 +21,8 @@
 [Yoricks's Video](https://www.youtube.com/watch?v=hHtvCGlPz-o)</br>
 
 </br>
-# Economic Analysis, Forecasting, and Speculation
+
+# Economic Analysis
 ### Posts
 [Xer0's Investment Thesis](https://www.reddit.com/r/ethfinance/comments/m3pug8/the_rocket_pool_investment_thesis/)</br>
 [Boodle's Investment Thesis](https://www.reddit.com/r/ethfinance/comments/m4jj0i/rocketpool_investment_thesis_round_3/)</br>
