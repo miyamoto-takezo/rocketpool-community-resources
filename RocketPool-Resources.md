@@ -12,3 +12,22 @@
 [jcrtp's General Hardware Guide](https://github.com/jclapis/rocketpool.github.io/blob/main/src/guides/local/hardware.md)</br>
 [jcrtp's Raspberry Pi Guide](https://github.com/jclapis/rp-pi-guide)</br>
 ### Security
+[Reddit: Examining Security Considerations for Staking](https://old.reddit.com/r/ethstaker/comments/jtn2tx/examining_security_considerations_for_staking/)</br>
+[Reddit: Staking and Security](https://old.reddit.com/r/ethstaker/comments/hmqpdu/staking_and_security/)</br>
+[Reddit: Home Staking Security Questions](https://old.reddit.com/r/ethstaker/comments/iqq2tv/home_staking_security_questions/)</br>
+[CoinCashew: Security Best Practices for a ETH2 validator beaconchain node](https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node
+)</br>
+[Mentor's Guide](https://github.com/rocket-pool/rocketpool.github.io/blob/main/src/documentation/smart-node-sections/security-considerations.md)</br>
+[Yoricks's Video](https://www.youtube.com/watch?v=hHtvCGlPz-o)</br>
+
+</br>
+# Economic Analysis, Forecasting, and Speculation
+### Posts
+[Xer0's Investment Thesis](https://www.reddit.com/r/ethfinance/comments/m3pug8/the_rocket_pool_investment_thesis/)</br>
+[Boodle's Investment Thesis](https://www.reddit.com/r/ethfinance/comments/m4jj0i/rocketpool_investment_thesis_round_3/)</br>
+[Psy_TWEAK's Investment Thesis](https://www.reddit.com/r/ethtrader/comments/m43r38/the_rocket_pool_investment_thesis_speculative/)</br>
+[Psy_TWEAK's Moon Math](https://discord.com/channels/405159462932971535/405163713063288832/820009733020844043)</br>
+### Tools
+[Interactive Price Chart](https://tommw.shinyapps.io/RPL_apy/)</br>
+[Hanniabu's Calculator](www.rocketpooltool.com)</br>
+[Tokenomic's Calculator](https://docs.google.com/spreadsheets/d/1Wl3EukDALcd8nBQQkMhzXr5WfwmEj264YPfch9AJN30/edit#gid=0)</br>
