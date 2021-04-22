@@ -34,3 +34,13 @@
 [Interactive Price Chart](https://tommw.shinyapps.io/RPL_apy/)</br>
 [Hanniabu's Calculator](www.rocketpooltool.com)</br>
 [Tokenomic's Calculator](https://docs.google.com/spreadsheets/d/1Wl3EukDALcd8nBQQkMhzXr5WfwmEj264YPfch9AJN30/edit#gid=0)</br>
+
+</br>
+
+# Answers to Common Concerns on Discord
+### Oracle/Trusted Node DAO
+[What is the TL;DR of the Oracle DAO?](https://discord.com/channels/405159462932971535/704196071881965589/804156484161896468)</br>
+[I heard that they can upgrade the smart contracts that the protocol uses- doesn't that mean they can steal all the funds in the deposit pool?]()</br>
+[Why is the Oracle DAO necessary?](https://discord.com/channels/405159462932971535/704196071881965589/812111405263486996)</br>
+[When/how will we know who is in the Oracle DAO?](https://discord.com/channels/405159462932971535/704196071881965589/812110740995178496)</br>
+[Why can't the Protocol DAO (RPL token holders) hold these responsibilites?](https://discord.com/channels/405159462932971535/704196071881965589/812112820350746644)</br>
