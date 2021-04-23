@@ -7,7 +7,7 @@
 ### Videos
 [LogicBeach's Explainer Video - Part 1](https://www.youtube.com/watch?v=uytfJlMfdyc) </br>
 [LogicBeach's Explainer Video - Part 2](https://www.youtube.com/watch?v=Vc4rxI9zEis) </br>
-### Discord Invite!
+### Discord Invite
 [Take me to the awesome Discord server please!](https://discord.gg/dV69Jszm)</br>
 
 </br>
