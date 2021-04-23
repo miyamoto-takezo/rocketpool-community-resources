@@ -1,5 +1,6 @@
 # General Info
 ### Articles
+[RocketPool Homepage](https://www.rocketpool.net/) </br>
 [Official Rocket Pool 101 — FAQ](https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9)</br>
 [Official Explainer Series Part 1 — Overview and Users of the protocol](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-1-8be4859e5fbd) </br>
 [Official Explainer Series Part 2 — The Protocol and Oracle Node DAO’s](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-2-e0d346911fe1) </br>
@@ -40,7 +41,7 @@
 
 </br>
 
-# Answers to Common Concerns on Discord
+# Answers to Common Concerns on Discord/Reddit
 ### Oracle/Trusted Node DAO
 [What is the TL;DR of the Oracle DAO?](https://discord.com/channels/405159462932971535/704196071881965589/804156484161896468)</br>
 [I heard that they can upgrade the smart contracts that the protocol uses- doesn't that mean they can steal deposited ETH?](https://discord.com/channels/405159462932971535/704196071881965589/820084833895448607)</br>
@@ -49,3 +50,4 @@
 [Why can't the Protocol DAO (RPL token holders) hold these responsibilites?](https://discord.com/channels/405159462932971535/704196071881965589/812112820350746644)</br>
 ### Misc.
 [Why isn't RPL currently listed on a major exchange like Coinbase?](https://discord.com/channels/405159462932971535/709960470953590825/834968369895047179)
+[What is the point of owning RPL?](https://www.reddit.com/r/ethstaker/comments/mwib11/rocketpool_community_resources/gvkik78?utm_source=share&utm_medium=web2x&context=3)
