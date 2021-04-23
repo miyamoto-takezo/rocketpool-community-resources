@@ -35,7 +35,7 @@
 [Psy_TWEAK's Moon Math](https://discord.com/channels/405159462932971535/405163713063288832/820009733020844043)</br>
 ### Tools
 [Interactive Price Chart](https://tommw.shinyapps.io/RPL_apy/)</br>
-[Hanniabu's Calculator](www.rocketpooltool.com)</br>
+[Hanniabu's Calculator](https://www.rocketpooltool.com/)</br>
 [Tokenomic's Calculator](https://docs.google.com/spreadsheets/d/1Wl3EukDALcd8nBQQkMhzXr5WfwmEj264YPfch9AJN30/edit#gid=0)</br>
 
 </br>
