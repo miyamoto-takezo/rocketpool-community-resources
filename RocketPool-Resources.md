@@ -14,6 +14,7 @@
 
 # Operating a Node
 ### General Operation
+[Official RP Command Documentation](https://rocket-pool.readthedocs.io/en/latest/smart-node/reference.html#node-commands) </br>
 [Official Node Operator's Guide (initial installation of the RP stack)](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b) </br>
 [jcrtp's General Hardware Guide](https://github.com/jclapis/rocketpool.github.io/blob/main/src/guides/local/hardware.md)</br>
 [Yorick's ETH2-docker Hardware Guide](https://eth2-docker.net/docs/Usage/Hardware) </br>
@@ -51,4 +52,6 @@
 [Why can't the Protocol DAO (RPL token holders) hold these responsibilites?](https://discord.com/channels/405159462932971535/704196071881965589/812112820350746644)</br>
 ### Misc.
 [Why isn't RPL currently listed on a major exchange like Coinbase?](https://discord.com/channels/405159462932971535/709960470953590825/834968369895047179) </br>
-[What is the point of owning RPL?](https://www.reddit.com/r/ethstaker/comments/mwib11/rocketpool_community_resources/gvkik78?utm_source=share&utm_medium=web2x&context=3)
+[What is the point of owning RPL?](https://www.reddit.com/r/ethstaker/comments/mwib11/rocketpool_community_resources/gvkik78?utm_source=share&utm_medium=web2x&context=3)</br>
+[What happens if my physical host housing my validator is destroyed or suffers a catasrophic software/OS failure? How can I come back online and recover my wallet?](https://discord.com/channels/405159462932971535/405164275036848128/835647435057004554) </br>
+[I already have an ETH1 and ETH2 client that is running and has been synced. Can I integrate this with the RP protocol?](https://rocket-pool.readthedocs.io/en/latest/smart-node/customization.html) </br>
