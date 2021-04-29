@@ -56,3 +56,4 @@
 [What is the point of owning RPL?](https://www.reddit.com/r/ethstaker/comments/mwib11/rocketpool_community_resources/gvkik78?utm_source=share&utm_medium=web2x&context=3)</br>
 [What happens if my physical host housing my validator is destroyed or suffers a catasrophic software/OS failure? How can I come back online and recover my wallet?](https://discord.com/channels/405159462932971535/405164275036848128/835647435057004554) </br>
 [I already have an ETH1 and ETH2 client that is running and has been synced. Can I integrate this with the RP protocol?](https://rocket-pool.readthedocs.io/en/latest/smart-node/customization.html) </br>
+[How can I decipher my ETH1/ETH2 client sync status based on their log outputs?](https://discord.com/channels/405159462932971535/468923220607762485/834022354807423036) </br>
