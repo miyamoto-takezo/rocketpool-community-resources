@@ -21,12 +21,12 @@
 [Yorick's ETH2-docker Hardware Guide](https://eth2-docker.net/docs/Usage/Hardware) </br>
 [jcrtp's Raspberry Pi Guide](https://github.com/jclapis/rp-pi-guide)</br>
 ### Security
+[Mentor's Guide](https://docs.rocketpool.net/guides/node/securing-your-node.html)</br>
 [Reddit: Examining Security Considerations for Staking](https://old.reddit.com/r/ethstaker/comments/jtn2tx/examining_security_considerations_for_staking/)</br>
 [Reddit: Staking and Security](https://old.reddit.com/r/ethstaker/comments/hmqpdu/staking_and_security/)</br>
 [Reddit: Home Staking Security Questions](https://old.reddit.com/r/ethstaker/comments/iqq2tv/home_staking_security_questions/)</br>
 [CoinCashew: Security Best Practices for a ETH2 validator beaconchain node](https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node
 )</br>
-[Mentor's Guide](https://github.com/rocket-pool/rocketpool.github.io/blob/main/src/documentation/smart-node-sections/security-considerations.md)</br>
 [Yoricks's Video](https://www.youtube.com/watch?v=hHtvCGlPz-o)</br>
 
 </br>
