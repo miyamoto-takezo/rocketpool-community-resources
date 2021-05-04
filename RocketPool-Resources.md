@@ -4,7 +4,7 @@
 [RavenFromIvo's Opinion and Explainer Article](https://iwo.medium.com/why-will-rocket-pool-win-staking-wars-f87493589d53) </br>
 [Official Explainer Series Part 1 — Overview and Users of the protocol](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-1-8be4859e5fbd) </br>
 [Official Explainer Series Part 2 — The Protocol and Oracle Node DAO’s](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-2-e0d346911fe1) </br>
-[Official Explainer Series Part 3 — RPL & Tokenomics](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-2-e0d346911fe1) </br>
+[Official Explainer Series Part 3 — RPL & Tokenomics](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-3-3029afb57d4c) </br>
 ### Videos
 [LogicBeach's Explainer Video - Part 1](https://www.youtube.com/watch?v=uytfJlMfdyc) </br>
 [LogicBeach's Explainer Video - Part 2](https://www.youtube.com/watch?v=Vc4rxI9zEis) </br>
@@ -57,3 +57,4 @@
 [What happens if my physical host housing my validator is destroyed or suffers a catasrophic software/OS failure? How can I come back online and recover my wallet?](https://discord.com/channels/405159462932971535/405164275036848128/835647435057004554) </br>
 [I already have an ETH1 and ETH2 client that is running and has been synced. Can I integrate this with the RP protocol?](https://rocket-pool.readthedocs.io/en/latest/smart-node/customization.html) </br>
 [How can I decipher my ETH1/ETH2 client sync status based on their log outputs?](https://discord.com/channels/405159462932971535/468923220607762485/834022354807423036) </br>
+[How does the node commission mechanism work when operating a node?](https://discord.com/channels/405159462932971535/704196071881965589/839018344157675530) </br>
