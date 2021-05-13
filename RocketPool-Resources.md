@@ -8,6 +8,7 @@
 ### Videos
 [LogicBeach's Explainer Video - Part 1](https://www.youtube.com/watch?v=uytfJlMfdyc) </br>
 [LogicBeach's Explainer Video - Part 2](https://www.youtube.com/watch?v=Vc4rxI9zEis) </br>
+[LogicBeach's Explainer Video - Part 3](https://www.youtube.com/watch?v=8mvXzu020Is) </br>
 ### Discord Invite
 [Take me to the awesome Discord server please!](https://discord.gg/dV69Jszm)</br>
 
@@ -58,3 +59,5 @@
 [I already have an ETH1 and ETH2 client that is running and has been synced. Can I integrate this with the RP protocol?](https://rocket-pool.readthedocs.io/en/latest/smart-node/customization.html) </br>
 [How can I decipher my ETH1/ETH2 client sync status based on their log outputs?](https://discord.com/channels/405159462932971535/468923220607762485/834022354807423036) </br>
 [How does the node commission mechanism work when operating a node?](https://discord.com/channels/405159462932971535/704196071881965589/839018344157675530) </br>
+[How does the "set-withdrawal-address" mechanism work for claiming rewards?](https://discord.com/channels/405159462932971535/405163713063288832/841129862072893451) </br>
+[What bandwidth do I need to run a node?](https://discord.com/channels/405159462932971535/405164275036848128/841853273227919410) </br>
