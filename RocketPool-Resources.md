@@ -20,7 +20,8 @@
 [Official Node Operator's Guide (initial installation of the RP stack)](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b) </br>
 [jcrtp's General Hardware Guide](https://github.com/jclapis/rocketpool.github.io/blob/main/src/guides/local/hardware.md)</br>
 [Yorick's ETH2-docker Hardware Guide](https://eth2-docker.net/docs/Usage/Hardware) </br>
-[jcrtp's Raspberry Pi Guide](https://github.com/jclapis/rp-pi-guide)</br>
+[jcrtp's Raspberry Pi Guide](https://github.com/jclapis/rp-pi-guide) </br>
+[Mentor's Script to Prune Geth in RP's Native Docker Setup](https://github.com/actuallymentor/rocketpool.github.io/blob/2e1dfcecf05b2f5a7ae6832707999854a1f4555f/src/guides/node/geth-pruning.md) </br>
 ### Security
 [Mentor's Guide](https://docs.rocketpool.net/guides/node/securing-your-node.html)</br>
 [Reddit: Examining Security Considerations for Staking](https://old.reddit.com/r/ethstaker/comments/jtn2tx/examining_security_considerations_for_staking/)</br>
