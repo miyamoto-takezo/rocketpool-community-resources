@@ -62,3 +62,4 @@
 [How does the node commission mechanism work when operating a node?](https://discord.com/channels/405159462932971535/704196071881965589/839018344157675530) </br>
 [How does the "set-withdrawal-address" mechanism work for claiming rewards?](https://discord.com/channels/405159462932971535/405163713063288832/841129862072893451) </br>
 [What bandwidth do I need to run a node?](https://discord.com/channels/405159462932971535/405164275036848128/841853273227919410) </br>
+[How do I completely uninstall RocketPool from my device?](https://discord.com/channels/405159462932971535/704214707904446535/843914694058442752) </br>
